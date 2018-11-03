@@ -2,5 +2,3 @@
 # Pizzeria Bella Napoli
 
 # Pizza
-
-# Primi
